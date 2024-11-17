@@ -1,7 +1,7 @@
 # Engagieren
 ### A mod for Beat Saber that adds Kiai Time to Beat Saber!
 
-> For mappers and modelers, check the documentation [here.](www.google.com)
+> For mappers and modelers, check the documentation [here.](https://github.com/Amalite/Engagieren/wiki)
 
 > [!NOTE]
 > This mod is a work in progress, nothing to show yet!
