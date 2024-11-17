@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "Engagieren",
+  "name": "Engagieren",
+  "author": "Amalite",
+  "version": "0.0.1",
+  "description": "Adds Kiai Time, seen in Taiko no Tatsujin and Osu!, now in Beat Saber!",
+  "gameVersion": "1.38.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.0"
+  }
+}
