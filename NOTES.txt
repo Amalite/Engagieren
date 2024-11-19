@@ -1,0 +1,4 @@
+Use levelFinishedEvent for when a song ends either through failure or completion
+Use levelDidStartEvent for when a song starts
+Read CustomEventData to get event triggers from beatmaps
+Read curentBpm to get the current BPM of a song
