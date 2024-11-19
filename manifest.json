@@ -7,6 +7,7 @@
   "description": "Adds Kiai Time, seen in Taiko no Tatsujin and Osu!, now in Beat Saber!",
   "gameVersion": "1.39.0",
   "dependsOn": {
-    "BSIPA": "^4.3.5"
+    "BSIPA": "^4.3.5",
+    "CustomJSONData": "^2.6.6"
   }
 }
