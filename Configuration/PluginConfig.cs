@@ -1,9 +1,9 @@
-﻿/*
+﻿
 using System.Runtime.CompilerServices;
 using IPA.Config.Stores;
 
 [assembly: InternalsVisibleTo(GeneratedStore.AssemblyVisibilityTarget)]
-namespace BS_Kiai_Time.Configuration
+namespace Engagieren.Configuration
 {
     internal class PluginConfig
     {
@@ -35,4 +35,3 @@ namespace BS_Kiai_Time.Configuration
         }
     }
 }
-*/
